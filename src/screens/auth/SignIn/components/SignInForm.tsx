@@ -21,7 +21,7 @@ export default function SignInForm() {
         secureTextEntry
       />
 
-      <AppButton title="Login" onPress={handleLogin} />
+      <AppButton title="Sign In" onPress={handleLogin} />
     </View>
   );
 }

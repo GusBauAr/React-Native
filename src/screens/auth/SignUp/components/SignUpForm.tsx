@@ -29,7 +29,7 @@ export default function SignUpForm() {
         secureTextEntry
       />
 
-      <AppButton title="Register" onPress={handleRegister} />
+      <AppButton title="Create Account" onPress={handleRegister} />
     </View>
   );
 }
